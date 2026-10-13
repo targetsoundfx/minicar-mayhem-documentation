@@ -6,7 +6,7 @@ This video explains the basics of track creation.
 
 <iframe
   width="100%"
-  height="250"
+  height="350"
   src="https://www.youtube.com/embed/FXuNFYAkAz4"
   title="Create your first track"
   frameborder="0"
