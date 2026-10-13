@@ -1,6 +1,6 @@
-# Mini Car Mayhem Documentation
+# Mini-Car Mayhem Documentation
 
-Welcome to the Mini Car Mayhem  documentation.
+Welcome to the Mini-Car Mayhem  documentation.
 
 This documentation will help you configure and use TDR Mobile.
 
