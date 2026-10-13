@@ -1,9 +1,5 @@
-# Android Setup
+# Tuto 01: Create a track
 
-Android is not selected by default when creating a Unity project.
-
-This video explains how to install the Android platform and configure
-the project for Android.
 
 ## Video
 
