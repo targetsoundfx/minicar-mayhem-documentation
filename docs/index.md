@@ -1,9 +1,11 @@
-# TDR Mobile Documentation
+# Mini Car Mayhem Documentation
 
-Welcome to the TDR Mobile documentation.
+Welcome to the Mini Car Mayhem  documentation.
 
 This documentation will help you configure and use TDR Mobile.
 
 ## Getting Started
 
-Start here if you are installing the project for the first time.
+To learn the basics of the asset read:
+Tuto 1: Create your first track 
+Tuto 2: Setup a vehicle 
