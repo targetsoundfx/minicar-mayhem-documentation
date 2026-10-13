@@ -1,0 +1,30 @@
+.step {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    align-items: center;
+    margin: 2rem 0;
+}
+
+.step-text {
+    min-width: 0;
+}
+
+.step-image {
+    min-width: 0;
+}
+
+.step-image img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 6px;
+}
+
+/* Mobile */
+@media screen and (max-width: 768px) {
+    .step {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+}

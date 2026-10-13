@@ -1,0 +1,9 @@
+site_name: TDR Mobile Documentation
+
+use_directory_urls: false
+
+theme:
+  name: material
+
+extra_css:
+  - stylesheets/extra.css
