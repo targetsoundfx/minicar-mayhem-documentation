@@ -1,7 +1,7 @@
 # Tuto 02: Create a vehicle
 
 <p>
-This video explains the basics of car creation.
+This video explains the basics of car creation. 
 </p>
 
 <iframe
