@@ -11,3 +11,5 @@ Follow these tutorials to learn the basics of the asset:
 - [Tutorial 3: Generate a minimap](getting-started/03-generate-minimap.md)
 - [Tutorial 4: Create track limits](getting-started/04-create-track-limits.md)
 - [Tutorial 5: Setup AI overtake trigger](getting-started/05-setup-ai-overtake-trigger.md)
+- [Tutorial 6: Replace Font and Music](getting-started/06-replace-default-font-and-music.md)
+
