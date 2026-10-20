@@ -12,4 +12,4 @@ Follow these tutorials to learn the basics of the asset:
 - [Tutorial 4: Create track limits](getting-started/04-create-track-limits.md)
 - [Tutorial 5: Setup AI overtake trigger](getting-started/05-setup-ai-overtake-trigger.md)
 - [Tutorial 6: Replace Font and Music](getting-started/06-replace-default-font-and-music.md)
-
+- [Tutorial 7: Create environment with the included prefabs.md](getting-started/07-create-environment-with-prefabs.md)
